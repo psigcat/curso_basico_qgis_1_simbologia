@@ -20,10 +20,10 @@ Les preguntes es fan principalment pel xat. Si no disposeu d’aquesta icona, pe
 http://psig.es/Curs_QGIS_basic_A_simbologia_etiquetes.zip (180 MB)
 
 
-#### Aprendràs a modificar simbologia: 
+#### Aprenderás a modificar la simbología de las capas: 
 https://youtu.be/fVDFTleOm7M
 
-#### Aprendràs a crear etiquetes
+#### Aprenderás a crear etiquetas
 https://youtu.be/0GZMY44HEVA
 
 
